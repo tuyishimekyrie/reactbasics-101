@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.links {
+  display: flex;
+  gap: 4rem;
+}
+
+button {
+  padding: 1rem 2rem;
+  background:rgba(6, 38, 126, 0.596);
+  color: white;
+  border:none;
+  margin: 1rem 0;
+}
